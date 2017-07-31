@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Multicnn</string>
+
+    <!--titles-->
+    <string name="mnist_title">MNIST</string>
+    <string name="cifar_title">Cifar-10</string>
+
+
+</resources>
